@@ -13,9 +13,10 @@ Nike as a company has always been a staple in my casual attire for as long as I 
 - What are the driving factors behind the discounted products?
 - Create a dynamic dashboard summarizing the discounted products
 
-## Process - Aggrigate, Data Wrangling, EDA and Data Mining
+## Analysis - Aggrigate, Data Wrangling, EDA and Data Mining
 - Checked for anomalies using box and whiskers charts
 - Created a new worksheet titled "f.nike.discriptive"
+  
 <img width="787" height="484" alt="Screenshot 2025-07-31 at 5 59 17 AM" src="https://github.com/user-attachments/assets/332d4c04-b8f9-4a5a-92d0-ae0c8c32f0ca" />
 
 - This worksheet contains a statistical summary of Nike data. Also discounted product metrics
@@ -77,6 +78,7 @@ Nike as a company has always been a staple in my casual attire for as long as I 
 
 
 - Nike customers fall into two categories, spenders $100 + and spenders under $100
+  
 <img width="775" height="147" alt="Screenshot 2025-07-31 at 4 46 01 PM" src="https://github.com/user-attachments/assets/7946189e-0791-4380-a341-d2105071eac8" />
 
 - Shoes prices >=100 make up 49 % of the view_count including 62% of the product reviews
