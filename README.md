@@ -1,6 +1,6 @@
-# Nike analysis - sample data from Kaggle
+# Nike Analysis - sample data from Kaggle
 ## Project objective 
-Nike as a company has always been a staple in my casual attire for as long as I can remember. As a life long fan it was only right to start my data analysis portfolio with an analysis of a token favorite brand of mine,Nike. Sorced from Kaggle.com of course. This dataset was extracted from a joined dataset with Adidas data then analyzed for its KPIs and unanswered questions. I developed a comprehensive workbook in Excel, Creating multiple tables, dashboards, and pivot tables to analyze the data. 
+Nike as a company has always been a staple in my casual attire for as long as I can remember. As a life long fan it was only right to start my data analysis portfolio with an analysis of a token favorite brand of mine, Nike. Sorced from Kaggle.com of course. This dataset was extracted from a joined dataset with Adidas data then analyzed for its KPIs and unanswered questions. I developed a dynamic comprehensive workbook in Excel, Creating multiple tables, dashboards, and pivot tables to analyze the data. 
 ## Dataset used
 - https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike
 
