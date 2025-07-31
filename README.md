@@ -1,7 +1,7 @@
 # Nike Analysis - sample data from Kaggle
 #### Jordan Lloyd - Junior Data Analyst - Atlanta GA 
 ## Project objective 
-Nike as a company has always been a staple in my casual attire for as long as I can remember. As a life long fan it was only right to start my data analysis portfolio with an analysis of a token favorite brand of mine, Nike. Sorced from Kaggle.com of course. This dataset was extracted from a joined dataset with Adidas data then analyzed for its KPIs and unanswered questions. I developed a dynamic comprehensive workbook in Excel, Creating multiple tables, dashboards, and pivot tables to analyze the data. 
+Nike as a company has always been a staple in my casual attire for as long as I can remember. As a life long fan it was only right to start my data analysis portfolio with an analysis of a token favorite brand of mine, Nike. Sorced from Kaggle.com of course. This Nike dataset was extracted from the dataset Adidas.nike.csv then analyzed for its KPIs and unanswered questions. I developed a dynamic comprehensive workbook in Excel, Creating multiple tables, dashboards, and pivot tables to analyze the data. 
 ## Dataset used
 - https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike
 
@@ -34,15 +34,26 @@ Nike as a company has always been a staple in my casual attire for as long as I 
 
 <img width="954" height="507" alt="Screenshot 2025-07-31 at 7 23 17 AM" src="https://github.com/user-attachments/assets/d8e0a98d-997b-4839-bde2-9c713f1069fb" />
 
-- 
 - Created a dynamic sales dashboard "g.nike.sale.dash" to display the data summary and KPIs 
 - Created a dynamic discount dashboard "h.nike.discount.dashboard" to display a discount summary along with KPIs
 
 ## Sales Dashboard
 <img width="1003" height="430" alt="Screenshot 2025-07-31 at 6 00 07 AM" src="https://github.com/user-attachments/assets/303d093b-fd72-4811-9964-96980b101877" />
 
+
 ## Discount Dashboard
 <img width="692" height="455" alt="Screenshot 2025-07-31 at 6 02 56 AM" src="https://github.com/user-attachments/assets/fe6e2311-b58b-4f93-8a89-67ccac4142c7" />
+
+- 71 % of Nikes discount products fall below the average review count of 8.
+- The percentage breakdown of the rate_group ( 0 - 2.9, 3 - 3.9, 4 - 5) for the discount products chosen is near equal to the percentage breakdown of all products
+- This implies that the chosen discounted products were not selected because of there rate but were chosen with the intention to ampify review counts to increase the marketing credibility   
+  
+- only 35 % of Nikes products are discounted
+- 34 % of Nike product views are associated with discounted products
+- This implies that the marketing is 97 % effective
+
+- There appears to be a correlation between the discounted product percent and the total product view percentage
+- the choice to select 35 % of Nikes products could have been done purposely by marketing to match the view percentage 
 
 ## Most viewed - Pivot Report
 <img width="614" height="508" alt="Screenshot 2025-07-31 at 6 04 20 AM" src="https://github.com/user-attachments/assets/cd908362-9f46-4403-b25e-f784fcbe6e75" />
