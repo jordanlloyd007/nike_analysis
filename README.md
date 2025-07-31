@@ -37,11 +37,21 @@ Nike as a company has always been a staple in my casual attire for as long as I 
 - Created a dynamic sales dashboard "g.nike.sale.dash" to display the data summary and KPIs 
 - Created a dynamic discount dashboard "h.nike.discount.dashboard" to display a discount summary along with KPIs
 
-## Product Profile Dashboard
+## Sales Dashboard
 <img width="1003" height="430" alt="Screenshot 2025-07-31 at 6 00 07 AM" src="https://github.com/user-attachments/assets/303d093b-fd72-4811-9964-96980b101877" />
 
 ## Discount Dashboard
 <img width="692" height="455" alt="Screenshot 2025-07-31 at 6 02 56 AM" src="https://github.com/user-attachments/assets/fe6e2311-b58b-4f93-8a89-67ccac4142c7" />
+
+## Most viewed - Pivot Report
+<img width="614" height="508" alt="Screenshot 2025-07-31 at 6 04 20 AM" src="https://github.com/user-attachments/assets/cd908362-9f46-4403-b25e-f784fcbe6e75" />
+
+## Customer Favorite - Pivot Report + Tree Map
+<img width="571" height="527" alt="Screenshot 2025-07-31 at 6 05 15 AM" src="https://github.com/user-attachments/assets/d37935d8-a764-4ec6-9a48-d23caeb24d1a" />
+
+## Excel Worksheet Index
+<img width="756" height="426" alt="Screenshot 2025-07-31 at 7 45 27 AM" src="https://github.com/user-attachments/assets/c1d248f8-e817-4104-b90b-de1e02e8d757" />
+
 
 
 
